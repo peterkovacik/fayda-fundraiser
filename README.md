@@ -1,3 +1,2 @@
-# FVIS Ramadan Fundraiser
+# Fayda Institute Ramadan Fundraiser
 
-Help FVIS build a new masjid.
