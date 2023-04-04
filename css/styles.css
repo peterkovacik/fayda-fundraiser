@@ -1,3 +1,7 @@
+.cutive-mono {
+    font-family: 'Cutive Mono', monospace;
+}
+
 .background-fayda::before {
     background-image: url("/images/Great-Mosque-of-Djenne-300x125.jpeg");
     background-color: #ccc;
